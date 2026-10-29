@@ -18,19 +18,7 @@
 <h2 align="center">Sobre mim </h2>
 
 <div align="center">
-
 Me chamo **Luana**, atualmente sou estudante de Sistemas de Informação e analista de sistemas JR. Tenho o desejo de crescer cada vez mais na área sempre me aprimorando por meio dos estudos e criação de novos projetos!
-
-Minha stack passa por banco de dados com **SQL**, back-end com **Python** e **PHP**,
-front-end com **HTML**, **CSS** e **JavaScript**, e mobile com **React Native**.
-
-<!--
-Quer personalizar? Adicione aqui frases suas, por exemplo:
-- o que você está estudando agora
-- no que você quer trabalhar
-- um hobby ou curiosidade
--->
-
 </div>
 
 <br/>

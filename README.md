@@ -19,7 +19,7 @@
 
 <div align="center">
 
-Sou **Luana**, analista de sistemas júnior.
+Me chamo **Luana**, atualmente sou estudante de Sistemas de Informação e analista de sistemas JR. Tenho o desejo de crescer cada vez mais na área sempre me aprimorando por meio dos estudos e criação de novos projetos!
 
 Minha stack passa por banco de dados com **SQL**, back-end com **Python** e **PHP**,
 front-end com **HTML**, **CSS** e **JavaScript**, e mobile com **React Native**.

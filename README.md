@@ -19,7 +19,7 @@
 <h2 align="center">Sobre mim </h2>
 
 <div align="center">
-Me chamo **Luana**, atualmente sou estudante de Sistemas de Informação e analista de sistemas JR. Tenho o desejo de crescer cada vez mais na área sempre me aprimorando por meio dos estudos e criação de novos projetos!
+Me chamo Luana, atualmente sou estudante de Sistemas de Informação e analista de sistemas JR. Tenho o desejo de crescer cada vez mais na área sempre me aprimorando por meio dos estudos e criação de novos projetos!
 </div>
 
 <br/>

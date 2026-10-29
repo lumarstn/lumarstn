@@ -8,8 +8,9 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/luana-almeida-ti">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF4D9D" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-FF4D9D?style=for-the-badge&logo=linkedin&logoColor=FF4D9D&labelColor=0D0D0D" alt="LinkedIn" />
 </a>
+
 
 </div>
 

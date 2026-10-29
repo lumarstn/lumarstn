@@ -16,7 +16,7 @@
 
 <br/>
 
-<h2 align="center">✦ sobre mim ✦</h2>
+<h2 align="center">Sobre mim </h2>
 
 <div align="center">
 
@@ -36,7 +36,7 @@ Quer personalizar? Adicione aqui frases suas, por exemplo:
 
 <br/>
 
-<h2 align="center">✦ tecnologias ✦</h2>
+<h2 align="center">Tecnologias</h2>
 
 <div align="center">
 
@@ -52,6 +52,6 @@ Quer personalizar? Adicione aqui frases suas, por exemplo:
 
 <br/>
 
-<h2 align="center">✦ projetos ✦</h2>
+<h2 align="center">Projetos</h2>
 
 <div

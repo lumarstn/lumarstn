@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:7B1230&height=220&section=header&text=Luana%20Almeida&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Analista%20de%20Sistemas%20J%C3%BAnior&descSize=18&descColor=FFFFFF&descAlignY=60" width="100%" alt="Banner Luana Almeida" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF4D9D&center=true&vCenter=true&width=520&height=40&lines=Analista+de+Sistemas+J%C3%BAnior;SQL+%C2%B7+Python+%C2%B7+PHP;HTML+%C2%B7+CSS+%C2%B7+JavaScript;React+Native" alt="Typing animation" />
-</a>
-
-<br/>
-
 <a href="https://www.linkedin.com/in/luana-almeida-ti">
   <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF4D9D" alt="LinkedIn" />
 </a>
@@ -16,7 +10,7 @@
 
 <br/>
 
-<h2 align="center">✦ sobre mim ✦</h2>
+<h2 align="center">Sobre mim</h2>
 
 <div align="center">
 
